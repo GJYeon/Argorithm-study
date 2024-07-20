@@ -1,4 +1,5 @@
-#dfs방식이 쓰인 구현 문제
+#dfs방식이 쓰인 구현 문제 
+#스택, 재귀함수
 N ,M = map(int,input().split())
 loc_r , loc_c, d = map(int,input().split())
 Map = list()
